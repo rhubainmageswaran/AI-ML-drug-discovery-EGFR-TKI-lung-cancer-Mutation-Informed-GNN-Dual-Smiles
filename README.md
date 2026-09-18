@@ -1,4 +1,4 @@
-# EGFR-TKI Mutation-Informed GNN — Dual-SMILES Activity & Docking Predictor
+# EGFR-TKI Mutation-Informed GNN — Dual-SMILES Activity & Docking Predictor Sept
 
 **A graph neural network that jointly encodes a drug candidate *and* the specific mutant kinase pocket it must bind, to predict binding activity and docking score for EGFR tyrosine-kinase inhibitors (TKIs) in non-small-cell lung cancer (NSCLC).**
 
